@@ -1,0 +1,10 @@
+.stack-work/
+stack.yaml.lock
+.idea/
+*.iml
+*/out/
+*/dist-newstyle
+dist-newstyle/
+*/.vscode
+.vscode/
+*~
